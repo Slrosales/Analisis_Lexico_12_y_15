@@ -5,8 +5,8 @@
 
 [![GitHub Slrosales](https://img.shields.io/badge/by-Slrosales-purple)](https://github.com/Slrosales)
 [![GitHub jfbenitezz](https://img.shields.io/badge/by-jfbenitezz-blue)](https://github.com/jfbenitezz)
-[![GitHub lellerena](https://img.shields.io/badge/by-lellerena-red)](https://github.com/Rubens1414)
-[![GitHub JuandiGo1](https://img.shields.io/badge/by-JuandiGo1-green)](https://github.com/lunajulio)
+[![GitHub lellerena](https://img.shields.io/badge/by-Rubens1414-red)](https://github.com/Rubens1414)
+[![GitHub JuandiGo1](https://img.shields.io/badge/by-lunajulio-green)](https://github.com/lunajulio)
 
 </div>
 
